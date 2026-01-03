@@ -30,7 +30,7 @@ Combinando a robustez do **Python (FastAPI)** com a experiência imersiva do **R
 
 ---
 
-### 💻 Arsenal Tecnológico (Tech Skills)
+### 💻 Tech Skills
 
 Aqui estão as tecnologias que utilizo para construir o **Gnomon** e meus projetos pessoais, organizadas como no meu ambiente de desenvolvimento:
 

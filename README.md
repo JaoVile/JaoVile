@@ -1,38 +1,38 @@
-# Olá, sou o João Marcos Ferreira Vilela! 👋
-
-> **Co-Founder @ Gnomon** | **Full-Stack Software Engineer** | **Oracle Certified GenAI Professional**
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:38bdf8&height=320&section=header&text=JOÃO%20VILELA&fontSize=80&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=FULL%20STACK%20DEVELOPER%20%2F%20CO-FOUNDER&descAlignY=55&descAlign=50&descSize=20)
 
 <div align="center">
-  <a href="https://github.com/JaoVile?tab=repositories">
-    <img align="center" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaoVile&layout=compact&theme=vision-friendly-dark&hide_border=true&langs_count=8"/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=ESPECIALISTA+EM+REACT+%26+PYTHON;TRANSFORMANDO+REQUISITOS+EM+PRODUTOS;ORACLE+CERTIFIED+GENAI+PROFESSIONAL;CO-FOUNDER+%40+GNOMON" alt="Typing SVG" />
   </a>
 </div>
 
 <br/>
 
-Sou um especialista em transformar requisitos complexos em produtos digitais de alta performance. Atualmente, atuo como **Co-Founder e Tech Lead na Gnomon**, onde arquitetamos soluções de mapeamento indoor.
+<div align="center">
+  <a href="https://www.linkedin.com/in/joao-marcos-vilela-1106002b3/" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://joaovilela.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/PORTFOLIO-1e293b?style=for-the-badge&logo=framer&logoColor=38bdf8" />
+  </a>
+  <a href="mailto:jaomarfervil@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
+
+<br/>
+
+### 👨‍💻 SOBRE MIM
+
+Sou especialista em transformar requisitos complexos em produtos digitais de alta performance. Atualmente, atuo como **Co-Founder e Tech Lead na Gnomon**, onde arquitetamos soluções de mapeamento indoor.
 
 Combinando a robustez do **Python (FastAPI)** com a experiência imersiva do **React/Next.js**, crio sistemas escaláveis e interfaces focadas em UX. Recentemente graduado e certificado em **IA Generativa pela Oracle**.
 
-<div align="center">
-  
-  <a href="https://www.linkedin.com/in/joao-marcos-vilela-1106002b3/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://joaovilela.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=framer&logoColor=white" />
-  </a>
-  <a href="mailto:jaomarfervil@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-
-</div>
-
 ---
 
-### 💻 Tech Skills
+### 🛠️ ARSENAL TECNOLÓGICO
 
-Aqui estão as tecnologias que utilizo para construir o **Gnomon** e meus projetos pessoais, organizadas como no meu ambiente de desenvolvimento:
+Aqui estão as tecnologias que utilizo para construir o **Gnomon** e meus projetos pessoais, organizadas como no meu ambiente de produção:
 
 #### **Back-end & Core Engineering**
 <div align="left">
@@ -63,7 +63,7 @@ Aqui estão as tecnologias que utilizo para construir o **Gnomon** e meus projet
 
 ---
 
-### 🚀 Projetos em Destaque
+### 🚀 PROJETOS EM DESTAQUE
 
 | Projeto | Papel | Stack Principal |
 | :--- | :--- | :--- |
@@ -72,6 +72,4 @@ Aqui estão as tecnologias que utilizo para construir o **Gnomon** e meus projet
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JaoVile&show_icons=true&theme=vision-friendly-dark&hide_border=true&count_private=true&include_all_commits=true" alt="JaoVile's GitHub stats" />
-</div>
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,100:0f172a&height=120&section=footer)

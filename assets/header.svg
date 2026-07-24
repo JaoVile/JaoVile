@@ -80,16 +80,16 @@
   </line>
 
   <!-- subtitle -->
-  <text x="86" y="232" font-size="18" letter-spacing="4" fill="#cdd3e8">FULL-STACK · AUTOMAÇÕES · IA</text>
+  <text x="86" y="232" font-size="18" letter-spacing="4" fill="#cdd3e8">FULL-STACK · SAAS · AI SYSTEMS</text>
 
   <!-- numbered nav -->
   <g font-size="16" letter-spacing="2">
     <text x="86"  y="300" fill="#e3b452" font-weight="700">01</text>
-    <text x="120" y="300" fill="#aeb6d8">SOBRE</text>
+    <text x="120" y="300" fill="#aeb6d8">ABOUT</text>
     <text x="250" y="300" fill="#e3b452" font-weight="700">02</text>
     <text x="284" y="300" fill="#aeb6d8">STACK</text>
     <text x="410" y="300" fill="#e3b452" font-weight="700">03</text>
-    <text x="444" y="300" fill="#aeb6d8">PROJETOS</text>
+    <text x="444" y="300" fill="#aeb6d8">WORK</text>
     <rect x="600" y="288" width="9" height="16" fill="#e3b452">
       <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1.1s" repeatCount="indefinite"/>
     </rect>

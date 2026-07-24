@@ -2,7 +2,7 @@
 
 ![João Vilela](./assets/header.svg)
 
-[![Portfólio](https://img.shields.io/badge/PORTFÓLIO-0c1640?style=flat-square&logo=vercel&logoColor=e3b452&labelColor=0c1640)](https://joaovilela.vercel.app)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-0c1640?style=flat-square&logo=vercel&logoColor=e3b452&labelColor=0c1640)](https://joaovilela.vercel.app)
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0c1640?style=flat-square&logo=linkedin&logoColor=e3b452&labelColor=0c1640)](https://www.linkedin.com/in/joao-marcos-vilela-1106002b3/)
 &nbsp;
@@ -12,13 +12,13 @@
 
 <br/>
 
-## `01` — Sobre
+## `01` — About
 
-Tecnólogo em ADS, baseado em **Caruaru, PE**. Construo **full-stack** com foco no que dá resultado: automação de processos, integrações e interfaces que as pessoas realmente usam.
+Full-stack engineer building **multi-tenant SaaS**, business-critical integrations and **AI multi-agent systems** — software where reliability and security actually matter.
 
-Trabalho rápido porque uso **IA como alavanca** no meu fluxo — e faço questão de **entender cada linha que vai para produção**. Da modelagem do banco à régua de disparos, do algoritmo de rota ao deploy.
+I ship fast by using **AI as leverage**, and I own **every line that reaches production**: from database schema to routing algorithms to deploy. Currently building daily-run business automations (`Node` · `TS` · `Hono` · `Supabase` · `Prisma`) and an 8+‑agent AI system with RAG, plus **Co‑Founder & Tech Lead at Gnomon** (indoor wayfinding).
 
-Atualmente **Co-Founder & Tech Lead na Gnomon** (wayfinding indoor) e tocando automações de negócio que rodam todos os dias.
+Based in **Brazil 🇧🇷** — remote-first, full overlap with US working hours.
 
 <br/>
 
@@ -28,22 +28,23 @@ Atualmente **Co-Founder & Tech Lead na Gnomon** (wayfinding indoor) e tocando au
 
 **Back-end**&nbsp;&nbsp;`Python` · `FastAPI` · `Node.js` · `PostgreSQL` · `MongoDB` · `Supabase`
 
-**Infra & Tooling**&nbsp;&nbsp;`Docker` · `Linux` · `Oracle Cloud` · `AWS` · `Vercel` · `Cypress`
+**Infra & Tooling**&nbsp;&nbsp;`Docker` · `Linux` · `Oracle Cloud` · `AWS` · `Vercel` · `Playwright`
 
 <br/>
 
-## `03` — Projetos em destaque
+## `03` — Featured work
 
-| Projeto | O que é | Stack |
+| Project | What it is | Stack |
 | :--- | :--- | :--- |
-| **[API_Busca](https://github.com/JaoVile/API_Busca)** | Plataforma **multi-tenant** que automatiza relatórios diários de gestão veicular — coleta a API Hinova SGA e dispara resumos via WhatsApp. Credenciais com **AES-256-GCM** e agendamento automático. | `FastAPI` · `TypeScript` · `Crypto` |
-| **[Gnomon](https://github.com/JaoVile/Gnomon)** | **Wayfinding PWA** para ambientes internos (campi, hospitais, eventos): mapas interativos e busca por pontos de interesse. *Co-Founder & Tech Lead.* | `React` · `PWA` · `Rotas` |
-| **[Touvie](https://touvie.vercel.app)** | **Life OS** pessoal — rotina, finanças, treino e diário num app só, com bot de Telegram integrado. | `Next.js 15` · `Supabase` |
-| **[Workout_API](https://github.com/JaoVile/Workout_API)** | API RESTful para gestão de academias: filtros, paginação e tratamento de exceções customizado. | `FastAPI` · `SQLAlchemy` |
+| **[Touvie](https://touvie.vercel.app)** | Personal **Life OS** — routine, finances, workouts and journaling in one app, with an integrated Telegram bot. | `Next.js 15` · `Supabase` · `TypeScript` |
+| **[API_Busca](https://github.com/JaoVile/API_Busca)** | **Multi-tenant SaaS** that automates daily fleet-management reports — pulls the Hinova SGA API and delivers WhatsApp summaries with an optional **AI executive insight**. Credentials encrypted with **AES‑256‑GCM**. | `TypeScript` · `Node.js` · `AES‑256‑GCM` |
+| **[Gnomon](https://github.com/JaoVile/Gnomon)** | **Indoor wayfinding PWA** for large venues (campuses, hospitals, events): interactive maps and point-of-interest search. *Co‑Founder & Tech Lead.* | `React` · `PWA` · `TypeScript` |
+| **[Workout_API](https://github.com/JaoVile/Workout_API)** | Async **REST API** for competition management — pagination, search filters, versioned migrations, tests + CI. | `FastAPI` · `SQLAlchemy` · `PostgreSQL` |
+| **[zaptor](https://github.com/JaoVile/zaptor)** | Chrome extension that stamps the **attendant's name** onto every WhatsApp Web message — built for teams sharing a single number. | `Chrome Extension` · `JavaScript` |
 
 <br/>
 
-## `04` — Atividade
+## `04` — Activity
 
 <div align="center">
 
@@ -60,5 +61,5 @@ Atualmente **Co-Founder & Tech Lead na Gnomon** (wayfinding indoor) e tocando au
 <br/>
 
 <div align="center">
-<sub>Caruaru · PE · Brasil &nbsp;—&nbsp; <i>Tecnologia como ferramenta de solução.</i></sub>
+<sub>Caruaru · PE · Brazil &nbsp;—&nbsp; <i>Technology as a tool for real-world solutions.</i></sub>
 </div>

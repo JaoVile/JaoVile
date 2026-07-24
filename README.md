@@ -37,6 +37,7 @@ Based in **Brazil 🇧🇷** — remote-first, full overlap with US working hour
 | Project | What it is | Stack |
 | :--- | :--- | :--- |
 | **[Touvie](https://touvie.vercel.app)** | Personal **Life OS** — routine, finances, workouts and journaling in one app, with an integrated Telegram bot. | `Next.js 15` · `Supabase` · `TypeScript` |
+| **[agendapp](https://github.com/JaoVile/agendapp)** | **Appointment scheduling PWA** — visitors book a slot and instantly get a Google Meet link. Two-way Google Calendar sync, Row-Level Security, concurrency-safe booking. | `Next.js 16` · `Supabase` · `Playwright` |
 | **[API_Busca](https://github.com/JaoVile/API_Busca)** | **Multi-tenant SaaS** that automates daily fleet-management reports — pulls the Hinova SGA API and delivers WhatsApp summaries with an optional **AI executive insight**. Credentials encrypted with **AES‑256‑GCM**. | `TypeScript` · `Node.js` · `AES‑256‑GCM` |
 | **[Gnomon](https://github.com/JaoVile/Gnomon)** | **Indoor wayfinding PWA** for large venues (campuses, hospitals, events): interactive maps and point-of-interest search. *Co‑Founder & Tech Lead.* | `React` · `PWA` · `TypeScript` |
 | **[Workout_API](https://github.com/JaoVile/Workout_API)** | Async **REST API** for competition management — pagination, search filters, versioned migrations, tests + CI. | `FastAPI` · `SQLAlchemy` · `PostgreSQL` |

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="84" viewBox="0 0 1200 84" role="img" aria-label="Vamos conversar sobre tecnologia e soluções?">
+  <defs><linearGradient id="bg"><stop stop-color="#0b142b"/><stop offset=".5" stop-color="#142341"/><stop offset="1" stop-color="#0b142b"/></linearGradient></defs>
+  <rect width="1200" height="84" rx="16" fill="url(#bg)"/>
+  <path d="M32 42H300M900 42H1168" stroke="#e1b967" stroke-opacity=".22"/>
+  <text x="600" y="48" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#d7b97a">Vamos conversar sobre tecnologia e soluções?</text>
+</svg>

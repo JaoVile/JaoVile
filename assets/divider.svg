@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="24" viewBox="0 0 1200 24" role="img" aria-label="Divisória decorativa">
+  <defs><linearGradient id="gold" gradientUnits="userSpaceOnUse" x1="0" y1="12" x2="1200" y2="12"><stop stop-color="#dfb768" stop-opacity="0"/><stop offset=".5" stop-color="#dfb768" stop-opacity=".6"/><stop offset="1" stop-color="#dfb768" stop-opacity="0"/></linearGradient></defs>
+  <style>@media (prefers-reduced-motion: reduce) { .motion { display: none; } }</style>
+  <path d="M0 12H1200" stroke="url(#gold)"/>
+  <path d="M595 12L600 7L605 12L600 17Z" fill="#dfb768" fill-opacity=".65"/>
+  <circle class="motion" cx="600" cy="12" r="8" fill="none" stroke="#dfb768" stroke-opacity=".3"><animate attributeName="r" values="6;12;6" dur="5s" repeatCount="indefinite"/><animate attributeName="opacity" values=".6;0;.6" dur="5s" repeatCount="indefinite"/></circle>
+</svg>

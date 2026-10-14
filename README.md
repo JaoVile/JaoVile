@@ -6,7 +6,7 @@
 
 **Desenvolvedor Full Stack · Inteligência artificial aplicada · Automação**
 
-Caruaru, Pernambuco 🇧🇷 · Aberto a oportunidades no Brasil
+Caruaru, Pernambuco 🇧🇷 
 
 </div>
 
@@ -60,7 +60,7 @@ Busco oportunidades para desenvolver produtos com **TypeScript, React/Next.js, P
 Estou aberto a oportunidades no Brasil em **desenvolvimento full stack, backend, automação e inteligência artificial aplicada**.
 
 - **Portfólio:** [joaovilela.vercel.app](https://joaovilela.vercel.app)
-- **LinkedIn:** [João Marcos Vilela](https://www.linkedin.com/in/joao-marcos-vilela-1106002b3/)
+- **LinkedIn:** [João Marcos Vilela]((https://www.linkedin.com/in/joao-marcos-ferreira-vilela/))
 - **E-mail:** [jaomarfervil@gmail.com](mailto:jaomarfervil@gmail.com)
 
 ![Vamos conversar sobre tecnologia e soluções?](./assets/footer.svg)

@@ -10,57 +10,31 @@
 
 </div>
 
-<br/>
+# João Marcos Ferreira Vilela
 
-## `01` — About
+### Full-Stack Developer · Applied AI & Automation
 
-Full-stack engineer building **multi-tenant SaaS**, business-critical integrations and **AI multi-agent systems** — software where reliability and security actually matter.
+I build web applications and automations that connect business workflows with AI. My projects include knowledge-grounded support assistants, AI-assisted reporting, API integrations and scheduling tools.
 
-I ship fast by using **AI as leverage**, and I own **every line that reaches production**: from database schema to routing algorithms to deploy. Currently building daily-run business automations (`Node` · `TS` · `Hono` · `Supabase` · `Prisma`) and an 8+‑agent AI system with RAG, plus **Co‑Founder & Tech Lead at Gnomon** (indoor wayfinding).
+Based in **Caruaru, Brazil**. Open to **full-stack development and applied AI opportunities**.
 
-Based in **Brazil 🇧🇷** — remote-first, full overlap with US working hours.
+## Selected projects
 
-<br/>
+| Project | What it demonstrates |
+| --- | --- |
+| **[allchats](https://github.com/JaoVile/allchats)** | AI support assistant prototype with knowledge retrieval, Claude integration, tool calling, human handoff and a WhatsApp-style simulator. Includes a deterministic fallback for running without an API key. |
+| **[API_Busca](https://github.com/JaoVile/API_Busca)** | Multi-tenant reporting automation: external API integrations, scheduled WhatsApp reports, encrypted credentials and optional AI-generated executive summaries. |
+| **[checkout-diario](https://github.com/JaoVile/checkout-diario)** | Automation that collects local development activity and uses AI to draft work summaries, with configurable sources and an interface for reviewing the output. |
+| **[agendapp](https://github.com/JaoVile/agendapp)** | Appointment scheduling PWA with Google Calendar synchronization and Google Meet integration. |
+| **[Gnomon](https://github.com/JaoVile/Gnomon)** | Indoor wayfinding PWA with interactive maps and point-of-interest search. **Co-founder & Tech Lead.** |
 
-## `02` — Stack
+## Technical focus
 
-**Front-end**&nbsp;&nbsp;`React` · `Next.js` · `TypeScript` · `Tailwind` · `Framer Motion`
+- **Applied AI:** LLM API integrations, retrieval-augmented generation (RAG), tool calling and human handoff workflows.
+- **Frontend:** TypeScript, JavaScript, React, Next.js and Tailwind CSS.
+- **Backend & data:** Python, FastAPI, Node.js, PostgreSQL and Supabase.
+- **Quality & delivery:** Vitest, Playwright, Git, Docker and Linux.
 
-**Back-end**&nbsp;&nbsp;`Python` · `FastAPI` · `Node.js` · `PostgreSQL` · `MongoDB` · `Supabase`
+## Contact
 
-**Infra & Tooling**&nbsp;&nbsp;`Docker` · `Linux` · `Oracle Cloud` · `AWS` · `Vercel` · `Playwright`
-
-<br/>
-
-## `03` — Featured work
-
-| Project | What it is | Stack |
-| :--- | :--- | :--- |
-| **[Touvie](https://touvie.vercel.app)** | Personal **Life OS** — routine, finances, workouts and journaling in one app, with an integrated Telegram bot. | `Next.js 15` · `Supabase` · `TypeScript` |
-| **[agendapp](https://github.com/JaoVile/agendapp)** | **Appointment scheduling PWA** — visitors book a slot and instantly get a Google Meet link. Two-way Google Calendar sync, Row-Level Security, concurrency-safe booking. | `Next.js 16` · `Supabase` · `Playwright` |
-| **[API_Busca](https://github.com/JaoVile/API_Busca)** | **Multi-tenant SaaS** that automates daily fleet-management reports — pulls the Hinova SGA API and delivers WhatsApp summaries with an optional **AI executive insight**. Credentials encrypted with **AES‑256‑GCM**. | `TypeScript` · `Node.js` · `AES‑256‑GCM` |
-| **[Gnomon](https://github.com/JaoVile/Gnomon)** | **Indoor wayfinding PWA** for large venues (campuses, hospitals, events): interactive maps and point-of-interest search. *Co‑Founder & Tech Lead.* | `React` · `PWA` · `TypeScript` |
-| **[Workout_API](https://github.com/JaoVile/Workout_API)** | Async **REST API** for competition management — pagination, search filters, versioned migrations, tests + CI. | `FastAPI` · `SQLAlchemy` · `PostgreSQL` |
-| **[zaptor](https://github.com/JaoVile/zaptor)** | Chrome extension that stamps the **attendant's name** onto every WhatsApp Web message — built for teams sharing a single number. | `Chrome Extension` · `JavaScript` |
-
-<br/>
-
-## `04` — Activity
-
-<div align="center">
-
-![snake](https://raw.githubusercontent.com/JaoVile/JaoVile/output/snake-dark.svg)
-
-<br/>
-
-![Stats](https://github-readme-stats.vercel.app/api?username=JaoVile&show_icons=true&hide_border=true&count_private=true&bg_color=0c1640&title_color=e3b452&text_color=cdd3e8&icon_color=e3b452)
-&nbsp;
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaoVile&layout=compact&langs_count=8&hide_border=true&bg_color=0c1640&title_color=e3b452&text_color=cdd3e8)
-
-</div>
-
-<br/>
-
-<div align="center">
-<sub>Caruaru · PE · Brazil &nbsp;—&nbsp; <i>Technology as a tool for real-world solutions.</i></sub>
-</div>
+[Portfolio](https://joaovilela.vercel.app) · [LinkedIn](https://www.linkedin.com/in/joao-marcos-vilela-1106002b3/) · [Email](mailto:jaomarfervil@gmail.com)
